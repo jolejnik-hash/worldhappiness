@@ -1,0 +1,6 @@
+
+pandas
+numpy
+plotly
+scikit-learn
+gradio==6.13.0
